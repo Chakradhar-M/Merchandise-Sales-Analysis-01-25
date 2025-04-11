@@ -43,3 +43,95 @@ This project showcases how data visualization can support e-commerce strategy, m
 📌 **Tip:** Right-click or Ctrl + Click to open links in a new tab.
 
 ---
+
+### 📊 Sample Raw Data
+
+<div style="overflow-x:auto; white-space:nowrap;">
+
+<table>
+  <thead>
+    <tr>
+      <th>Order&nbsp;ID</th>
+      <th>Order&nbsp;Date</th>
+      <th>Product&nbsp;ID</th>
+      <th>Product&nbsp;Category</th>
+      <th>Buyer&nbsp;Gender</th>
+      <th>Buyer&nbsp;Age</th>
+      <th>Order&nbsp;Location</th>
+      <th>Latitude</th>
+      <th>Longitude</th>
+      <th>International&nbsp;Shipping</th>
+      <th>Sales&nbsp;Price</th>
+      <th>Shipping&nbsp;Charges</th>
+      <th>Sales&nbsp;per&nbsp;Unit</th>
+      <th>Quantity</th>
+      <th>Total&nbsp;Sales</th>
+      <th>Rating</th>
+      <th>Review</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>189440</td>
+      <td>21-07-2024</td>
+      <td>BF1543</td>
+      <td>Clothing</td>
+      <td>Male</td>
+      <td>30</td>
+      <td>New&nbsp;Jersey</td>
+      <td>39.833851</td>
+      <td>-74.871826</td>
+      <td>No</td>
+      <td>100</td>
+      <td>0</td>
+      <td>100</td>
+      <td>1</td>
+      <td>100</td>
+      <td>4</td>
+      <td>The&nbsp;delivery&nbsp;team&nbsp;handled&nbsp;the&nbsp;product&nbsp;with&nbsp;care.</td>
+    </tr>
+    <tr>
+      <td>187385</td>
+      <td>20-07-2024</td>
+      <td>BF1543</td>
+      <td>Clothing</td>
+      <td>Male</td>
+      <td>32</td>
+      <td>Las&nbsp;Vegas</td>
+      <td>36.18811</td>
+      <td>-115.176468</td>
+      <td>No</td>
+      <td>100</td>
+      <td>0</td>
+      <td>100</td>
+      <td>1</td>
+      <td>100</td>
+      <td>3</td>
+      <td>Had&nbsp;slight&nbsp;delays&nbsp;but&nbsp;the&nbsp;product&nbsp;was&nbsp;in&nbsp;good&nbsp;shape.</td>
+    </tr>
+    <tr>
+      <td>181844</td>
+      <td>21-07-2024</td>
+      <td>BF1544</td>
+      <td>Other</td>
+      <td>Female</td>
+      <td>26</td>
+      <td>Cardiff</td>
+      <td>51.481583</td>
+      <td>-3.17909</td>
+      <td>Yes</td>
+      <td>9</td>
+      <td>40</td>
+      <td>49</td>
+      <td>1</td>
+      <td>49</td>
+      <td>2</td>
+      <td>Waste&nbsp;of&nbsp;Money.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+🔗 Check out the **Data Dictionary** here 👉 [Click Here](#)
+
+---
