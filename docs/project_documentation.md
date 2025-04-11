@@ -132,6 +132,6 @@ This project showcases how data visualization can support e-commerce strategy, m
 </table>
 </div>
 
-🔗 Check out the **Data Dictionary** here 👉 [Click Here](#)
+🔗 Check out the **Data Dictionary** here 👉 [Click Here](https://github.com/Chakradhar-M/Merchandise-Sales-Analysis-01-25/blob/main/dataset/data_dictionary.md)
 
 ---
