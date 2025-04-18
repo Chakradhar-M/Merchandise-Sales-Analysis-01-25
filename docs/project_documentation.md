@@ -135,3 +135,21 @@ This project showcases how data visualization can support e-commerce strategy, m
 🔗 Check out the **Data Dictionary** here 👉 [Click Here](https://github.com/Chakradhar-M/Merchandise-Sales-Analysis-01-25/blob/main/dataset/data_dictionary.md)
 
 ---
+
+
+### 📊 **Key Performance Indicators (KPIs)**
+
+1️⃣ **Order Count**  
+Represents the total number of orders placed during a specific time period. This metric helps in tracking the volume of transactions and understanding sales activity within a given period.
+
+2️⃣ **Revenue (USD)**  
+Represents the total monetary value generated from all completed sales transactions. This metric provides insights into the overall financial performance and helps in measuring the success of the merchandise sales.
+
+3️⃣ **Average Order Value (AOV)**  
+Represents the average revenue generated per order. This metric is calculated by dividing total revenue by the number of orders. It helps in evaluating the purchasing behavior and identifying opportunities for upselling or improving sales.
+
+4️⃣ **Quantity Sold**  
+Represents the total quantity of products sold during a specific time period. This metric provides insights into the volume of products moving in the market and helps in understanding product demand and inventory needs.
+
+
+---
